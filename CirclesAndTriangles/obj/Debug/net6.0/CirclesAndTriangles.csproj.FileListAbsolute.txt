@@ -1,0 +1,12 @@
+C:\Users\rsano\source\repos\CirclesAndTriangles\CirclesAndTriangles\bin\Debug\net6.0\CirclesAndTriangles.deps.json
+C:\Users\rsano\source\repos\CirclesAndTriangles\CirclesAndTriangles\bin\Debug\net6.0\CirclesAndTriangles.dll
+C:\Users\rsano\source\repos\CirclesAndTriangles\CirclesAndTriangles\bin\Debug\net6.0\CirclesAndTriangles.pdb
+C:\Users\rsano\source\repos\CirclesAndTriangles\CirclesAndTriangles\obj\Debug\net6.0\CirclesAndTriangles.csproj.AssemblyReference.cache
+C:\Users\rsano\source\repos\CirclesAndTriangles\CirclesAndTriangles\obj\Debug\net6.0\CirclesAndTriangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsano\source\repos\CirclesAndTriangles\CirclesAndTriangles\obj\Debug\net6.0\CirclesAndTriangles.AssemblyInfoInputs.cache
+C:\Users\rsano\source\repos\CirclesAndTriangles\CirclesAndTriangles\obj\Debug\net6.0\CirclesAndTriangles.AssemblyInfo.cs
+C:\Users\rsano\source\repos\CirclesAndTriangles\CirclesAndTriangles\obj\Debug\net6.0\CirclesAndTriangles.csproj.CoreCompileInputs.cache
+C:\Users\rsano\source\repos\CirclesAndTriangles\CirclesAndTriangles\obj\Debug\net6.0\CirclesAndTriangles.dll
+C:\Users\rsano\source\repos\CirclesAndTriangles\CirclesAndTriangles\obj\Debug\net6.0\refint\CirclesAndTriangles.dll
+C:\Users\rsano\source\repos\CirclesAndTriangles\CirclesAndTriangles\obj\Debug\net6.0\CirclesAndTriangles.pdb
+C:\Users\rsano\source\repos\CirclesAndTriangles\CirclesAndTriangles\obj\Debug\net6.0\ref\CirclesAndTriangles.dll
